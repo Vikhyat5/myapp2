@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myapp2/static/css/main.a323c044.chunk.css",
+    "main.css": "/myapp2/static/css/main.eccb983a.chunk.css",
     "main.js": "/myapp2/static/js/main.458b7eee.chunk.js",
     "main.js.map": "/myapp2/static/js/main.458b7eee.chunk.js.map",
     "runtime~main.js": "/myapp2/static/js/runtime~main.0215af8a.js",
@@ -8,9 +8,9 @@
     "static/js/2.3310f33a.chunk.js": "/myapp2/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/myapp2/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/myapp2/index.html",
-    "precache-manifest.18adc92af755b5d2cea5de4fefda5be4.js": "/myapp2/precache-manifest.18adc92af755b5d2cea5de4fefda5be4.js",
+    "precache-manifest.6db4486913919b3306f78461b5c5f315.js": "/myapp2/precache-manifest.6db4486913919b3306f78461b5c5f315.js",
     "service-worker.js": "/myapp2/service-worker.js",
-    "static/css/main.a323c044.chunk.css.map": "/myapp2/static/css/main.a323c044.chunk.css.map",
+    "static/css/main.eccb983a.chunk.css.map": "/myapp2/static/css/main.eccb983a.chunk.css.map",
     "static/media/logo.svg": "/myapp2/static/media/logo.5d5d9eef.svg"
   }
 }
