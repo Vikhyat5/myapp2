@@ -3,7 +3,7 @@
   "name": "myapp2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vikhyat5.github.io/myapp2",
+  "homepage": "https://vikhyat5.github.io/myapp2/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
